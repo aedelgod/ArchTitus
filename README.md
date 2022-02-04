@@ -49,4 +49,4 @@ After unblocking the WiFi, you can connect to it. Go through these 5 steps:
 ## Credits
 
 - Original packages script was a post install cleanup script called ArchMatic located here: https://github.com/rickellis/ArchMatic
-- Thank you to all the folks that helped during the creation from YouTube Chat! Here are all those Livestreams showing the creation: <https://www.youtube.com/watch?v=IkMCtkDIhe8&list=PLc7fktTRMBowNaBTsDHlL6X3P3ViX3tYg>
+- Chris Titus Tech for the original ArchTitus script located here: https://github.com/ChrisTitusTech/ArchTitus
