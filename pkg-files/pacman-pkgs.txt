@@ -28,12 +28,10 @@ breeze-gtk
 bridge-utils
 btrfs-progs
 celluloid
-cmatrix
 code
 cronie
 cups
 dialog
-discover
 dolphin
 dosfstools
 dtc
@@ -61,7 +59,6 @@ gwenview
 haveged
 htop
 iptables-nft
-jdk-openjdk
 kate
 kcodecs
 kcoreaddons
@@ -81,7 +78,6 @@ linux
 linux-firmware
 linux-headers
 lsof
-lutris
 lzop
 m4
 make
@@ -115,14 +111,12 @@ python-notify2
 python-psutil
 python-pyqt5
 python-pip
-qemu
 rsync
 sddm
 sddm-kcm
 snapper
 snap-pac
 spectacle
-steam
 sudo
 swtpm
 synergy
@@ -137,13 +131,8 @@ unrar
 unzip
 usbutils
 vim
-virt-manager
-virt-viewer
 wget
 which
-wine-gecko
-wine-mono
-winetricks
 xdg-desktop-portal-kde
 xdg-user-dirs
 zeroconf-ioslave
