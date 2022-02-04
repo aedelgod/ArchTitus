@@ -1,7 +1,6 @@
 autojump
-brave-bin
+librewolf-bin
 dxvk-bin
-github-desktop-bin
 lightly-git
 lightlyshaders-git
 mangohud
@@ -15,4 +14,3 @@ ocs-url
 sddm-nordic-theme-git
 snapper-gui-git
 ttf-meslo
-zoom
